@@ -11,5 +11,10 @@
         <module>PlatformB</module>
     </modules>
 
+    <scm>
+        <url>https://github.com/DuncanFox/Platform</url>
+        <connection>scm:git:git://github.com/DuncanFox/Platform.git</connection>
+        <developerConnection>scm:git:git@github.com:DuncanFox/Platform.git</developerConnection>
+    </scm>
 
 </project>
